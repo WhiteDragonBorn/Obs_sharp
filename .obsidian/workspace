@@ -7,16 +7,11 @@
         "id": "8ec4956249002d25",
         "type": "leaf",
         "state": {
-<<<<<<< Updated upstream
           "type": "markdown",
           "state": {
-            "file": "main/abobs.md",
+            "file": "main/rules.md",
             "mode": "source"
           }
-=======
-          "type": "empty",
-          "state": {}
->>>>>>> Stashed changes
         }
       }
     ],
@@ -73,10 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "main/abobs.md",
-=======
->>>>>>> Stashed changes
+                "file": "main/rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +88,10 @@
   },
   "active": "8ec4956249002d25",
   "lastOpenFiles": [
-    "main/abobs.md"
+    "main/rules.md",
+    "references.md",
+    "main/abobs.md",
+    "references/yo-cuando-spinning.gif",
+    "abobs.md"
   ]
 }
