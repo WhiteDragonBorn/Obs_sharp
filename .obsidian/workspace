@@ -7,11 +7,16 @@
         "id": "8ec4956249002d25",
         "type": "leaf",
         "state": {
+<<<<<<< Updated upstream
           "type": "markdown",
           "state": {
             "file": "main/abobs.md",
             "mode": "source"
           }
+=======
+          "type": "empty",
+          "state": {}
+>>>>>>> Stashed changes
         }
       }
     ],
@@ -68,7 +73,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "main/abobs.md",
+=======
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
