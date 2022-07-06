@@ -7,16 +7,10 @@
         "id": "8ec4956249002d25",
         "type": "leaf",
         "state": {
-<<<<<<< Updated upstream
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "main/abobs.md",
-            "mode": "source"
+            "file": "references/yo-cuando-spinning.gif"
           }
-=======
-          "type": "empty",
-          "state": {}
->>>>>>> Stashed changes
         }
       }
     ],
@@ -73,10 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "main/abobs.md",
-=======
->>>>>>> Stashed changes
+                "file": "references/yo-cuando-spinning.gif",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +87,7 @@
   },
   "active": "8ec4956249002d25",
   "lastOpenFiles": [
+    "references/yo-cuando-spinning.gif",
     "main/abobs.md"
   ]
 }
