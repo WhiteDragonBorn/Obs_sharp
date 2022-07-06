@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "abobs.md",
+            "file": "main/abobs.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "abobs.md",
+                "file": "main/abobs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,6 @@
   },
   "active": "8ec4956249002d25",
   "lastOpenFiles": [
-    "abobs.md"
+    "main/abobs.md"
   ]
 }
